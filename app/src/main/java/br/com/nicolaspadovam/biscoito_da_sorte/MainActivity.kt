@@ -130,7 +130,7 @@ fun AppBiscoitoDaSorteScreen() {
             Button(
                 onClick = { showFrase() },
                 modifier = Modifier
-                    .width(280.dp)
+                    .width(267.dp)
                     .height(60.dp),
                 colors = ButtonDefaults.buttonColors(
                     containerColor = Color.Gray
